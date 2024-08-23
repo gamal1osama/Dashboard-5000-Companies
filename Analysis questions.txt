@@ -1,0 +1,11 @@
+1-What's the average revenue among companies on the list? Broken down by industry?
+
+2-Which industries are most and least represented in the list?
+
+3-Do you notice any interesting geographic trends?
+
+4-Which industries saw the largest average growth rate?
+
+5-Which companies had the largest increase in staff/new hires?
+
+6-Did any companies increase revenue while reducing staff?
