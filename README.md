@@ -24,9 +24,3 @@ This Power BI project analyzes the [INC 5000 Companies Dataset](https://www.kagg
 - `Visualization types`: Maps, treemaps, sparklines
 - `Dynamic calculations` for growth metrics
 - ` obile-responsive design`
-
-## 🛠️ How to Use This Repository
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/gamal1osama/Dashboard-5000-Companies.git
